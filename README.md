@@ -1,6 +1,6 @@
 # Website-Scrapper
 
-This Python program scrapes data from a website using the Beautiful Soup library. It includes methods to extract links and images from a page, and saves the data to text files.
+This Python program scrapes data from a website using the Beautiful Soup library. It includes methods to extract links and images from the website page, and saves the data to text files. See samples in the `scrapped_data` folder.
 
 ## Installation
 
