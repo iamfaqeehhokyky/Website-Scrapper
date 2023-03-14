@@ -1,17 +1,17 @@
 # Website-Scrapper
 
-This Python program scrapes data from a website using the Beautiful Soup library. It includes methods to extract links and images from the website page, and saves the data to text files. See samples in the `scrapped_data` folder.
+This Python program scrapes data from a website using the Beautiful Soup library. It includes methods to extract links and images from the website page, and saves the data to text files. See samples in the `X_scrapped_data` folder.
 
 ## Installation
 
 - Download the repository or clone it using `git clone https://github.com/iamfaqeehhokyky/Website-Scrapper.git`
 - Install the requirements by running `pip install -r requirements.txt`
 
-## Usage
+## Usage after completing the task
 
 1. Replace the url variable in the example usage with the URL of the website you want to scrape
-2. Run the program by running `python web_scraper.py`
-3. The program will automatically create a folder in the same directory called `scrapped_data` and all the scraped data will be saved to text files in that folder as (`links.txt` and `images.txt`)
+2. Run the program by running `python web_scrapper.py`
+3. The program will automatically create a folder in the same directory called `scrapped_data` and all the scraped data will be saved to text files in that folder as (`{url}.txt` and `{url}_img.txt`)
 
 ## Explaining the code
 
@@ -21,7 +21,7 @@ The `scrape_links` method sends an HTTP GET request to the URL, parses the HTML 
 
 ## Examples
 
-After running the program to scrape data from the Kibo website, https://www.kibo.school, here are some examples of the data that the program can scrape:
+After running the [COMPLETED] program to scrape data from the Kibo website, https://www.kibo.school, here are some examples of the data that the program can scrape:
 
 `links.txt`
 
