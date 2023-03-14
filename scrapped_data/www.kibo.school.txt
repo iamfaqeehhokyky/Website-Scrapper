@@ -1,0 +1,202 @@
+URL: https://kibo.school/degree/admissions/
+Text: Applications are open for the July cohort of the online BSc in computer science. Learn more and apply!
+URL: /
+Text: 
+URL: #
+Text: 
+URL: None
+Text: Degree Program ▾
+URL: https://kibo.school/degree/
+Text: Overview
+URL: https://kibo.school/degree/admissions/
+Text: Admissions
+URL: https://kibo.school/degree/tuition-aid/
+Text: Tuition & Aid
+URL: https://kibo.school/degree/curriculum/
+Text: Curriculum
+URL: https://kibo.school/degree/career/
+Text: Career
+URL: https://kibo.school/trykibo/
+Text: Try Kibo
+URL: https://kibo.school/community/
+Text: Community
+URL: None
+Text: Get Involved ▾
+URL: https://kibo.school/volunteer/
+Text: Volunteer
+URL: https://kibo.school/partner/
+Text: Partner
+URL: http://bit.ly/kibo-open-roles
+Text: Jobs
+URL: https://kibo.school/about-kibo/
+Text: About
+URL: https://bit.ly/web-apply-2023
+Text: Apply Now
+URL: #
+Text: 
+URL: #
+Text: Degree Program
+URL: https://kibo.school/degree/
+Text: Overview
+URL: https://kibo.school/degree/admissions/
+Text: Admissions
+URL: https://kibo.school/degree/tuition-aid/
+Text: Tuition & Aid
+URL: https://kibo.school/degree/curriculum/
+Text: Curriculum
+URL: https://kibo.school/degree/career/
+Text: Career
+URL: https://kibo.school/trykibo/
+Text: Try Kibo
+URL: https://kibo.school/community/
+Text: Community
+URL: #
+Text: Get Involved
+URL: https://kibo.school/volunteer/
+Text: Volunteer
+URL: https://kibo.school/partner/
+Text: Partner
+URL: http://bit.ly/kibo-open-roles
+Text: Jobs
+URL: https://kibo.school/about-kibo/
+Text: About
+URL: https://bit.ly/web-apply-2023
+Text: Become a student
+URL: https://bit.ly/web-apply-2023
+Text: Become a student
+URL: https://kibo.school/degree-program/curriculum/
+Text: Curriculum
+URL: https://kibo.school/community/
+Text: Community
+URL: https://kibo.school/degree-program/career/
+Text: Career
+URL: https://kibo.school/degree/
+Text: 
+URL: https://kibo.school/degree/
+Text: Learn More
+URL: https://kibo.school/trykibo/
+Text: 
+URL: https://kibo.school/trykibo/
+Text: Learn More
+URL: https://kibo-school.typeform.com/brochure
+Text: ➔
+URL: https://kibo.school/humans_of_kibo/adesola/
+Text: 
+URL: https://kibo.school/humans_of_kibo/adesola/
+Text: 
+URL: https://kibo.school/humans_of_kibo/adesola/
+Text: +
+URL: https://kibo.school/humans_of_kibo/akinbobola/
+Text: 
+URL: https://kibo.school/humans_of_kibo/akinbobola/
+Text: 
+URL: https://kibo.school/humans_of_kibo/akinbobola/
+Text: +
+URL: https://kibo.school/humans_of_kibo/ciano/
+Text: 
+URL: https://kibo.school/humans_of_kibo/ciano/
+Text: 
+URL: https://kibo.school/humans_of_kibo/ciano/
+Text: +
+URL: https://kibo.school/humans_of_kibo/ebunoluwa/
+Text: 
+URL: https://kibo.school/humans_of_kibo/ebunoluwa/
+Text: 
+URL: https://kibo.school/humans_of_kibo/ebunoluwa/
+Text: +
+URL: https://kibo.school/humans_of_kibo/emeka/
+Text: 
+URL: https://kibo.school/humans_of_kibo/emeka/
+Text: 
+URL: https://kibo.school/humans_of_kibo/emeka/
+Text: +
+URL: https://kibo.school/humans_of_kibo/jimmy/
+Text: 
+URL: https://kibo.school/humans_of_kibo/jimmy/
+Text: 
+URL: https://kibo.school/humans_of_kibo/jimmy/
+Text: +
+URL: https://kibo.school/humans_of_kibo/mercy/
+Text: 
+URL: https://kibo.school/humans_of_kibo/mercy/
+Text: 
+URL: https://kibo.school/humans_of_kibo/mercy/
+Text: +
+URL: https://kibo.school/humans_of_kibo/nabila/
+Text: 
+URL: https://kibo.school/humans_of_kibo/nabila/
+Text: 
+URL: https://kibo.school/humans_of_kibo/nabila/
+Text: +
+URL: https://kibo.school/humans_of_kibo/ope/
+Text: 
+URL: https://kibo.school/humans_of_kibo/ope/
+Text: 
+URL: https://kibo.school/humans_of_kibo/ope/
+Text: +
+URL: https://kibo.school/humans_of_kibo/raphael/
+Text: 
+URL: https://kibo.school/humans_of_kibo/raphael/
+Text: 
+URL: https://kibo.school/humans_of_kibo/raphael/
+Text: +
+URL: https://kibo.school/humans_of_kibo/1581/
+Text: 
+URL: https://kibo.school/humans_of_kibo/1581/
+Text: 
+URL: https://kibo.school/humans_of_kibo/1581/
+Text: +
+URL: https://kibo.school/humans_of_kibo/wasiu/
+Text: 
+URL: https://kibo.school/humans_of_kibo/wasiu/
+Text: 
+URL: https://kibo.school/humans_of_kibo/wasiu/
+Text: +
+URL: https://bit.ly/web-apply-2023
+Text: Become a Student
+URL: https://www.instagram.com/kiboschool/
+Text: 
+URL: https://www.linkedin.com/company/kiboschool/
+Text: 
+URL: https://twitter.com/Kibo_School
+Text: 
+URL: https://www.youtube.com/channel/UCjwgPHHJHpeo6IxXnbDp55Q
+Text: 
+URL: https://www.facebook.com/KiboSchool
+Text: 
+URL: https://kibo.school/
+Text: Home
+URL: https://kibo.school/about-kibo/
+Text: About Kibo
+URL: https://kibo.school/trykibo/
+Text: Try Kibo
+URL: https://kibo.school/math-challenge/
+Text: Math Challenge
+URL: https://kibo.school/community/
+Text: Community
+URL: https://kibo.school/accreditation/
+Text: Accreditation
+URL: https://kibo.school/degree/
+Text: Overview
+URL: https://kibo.school/degree/admissions/
+Text: Admissions
+URL: https://kibo.school/degree/tuition-aid/
+Text: Tuition & Aid
+URL: https://kibo.school/degree/curriculum/
+Text: Curriculum
+URL: https://kibo.school/degree/career/
+Text: Career
+URL: https://kibo.school/volunteer/
+Text: Volunteer
+URL: https://kibo.school/partner/
+Text: Partner
+URL: http://bit.ly/kibo-open-roles
+Text: Work with us
+URL: https://bit.ly/WhatsAppKibo
+Text: Chat us on WhatsApp
+URL: https://kibo.school/privacy-policy
+Text: Privacy policy
+URL: https://kibo.school/terms-and-conditions
+Text: Terms of use 
+URL: https://kibo.school/cookie-policy
+Text: Cookie Policy
