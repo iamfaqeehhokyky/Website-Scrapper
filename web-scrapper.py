@@ -27,6 +27,7 @@ class WebScraper:
         links = soup.find_all('a')
 
         # Save link URLs and text to a file
+        # TODO
         # Write your code here for the 1st task
 
     def scrape_images(self):
@@ -40,6 +41,7 @@ class WebScraper:
         images = soup.find_all('img')
 
         # Save image URLs to a file
+        # TODO
         # Write your code here for the 2nd task
 
 
