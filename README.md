@@ -23,7 +23,7 @@ The `scrape_links` method sends an HTTP GET request to the URL, parses the HTML 
 
 After running the [COMPLETED] program to scrape data from the Kibo website, https://www.kibo.school, here are some examples of the data that the program can scrape:
 
-`links.txt`
+`www.kibo.school.txt`
 
 ```txt
 URL: https://kibo.school/degree/admissions/
@@ -46,7 +46,7 @@ URL: https://kibo.school/degree/career/
 ...
 ```
 
-`images.txt`
+`www.kibo.school_img.txt`
 
 ```txt
 https://www.facebook.com/tr?id=417229956740074&ev=PageView&noscript=1
